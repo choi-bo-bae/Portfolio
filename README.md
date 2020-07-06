@@ -1,6 +1,8 @@
 # Portfolio
 
 블로그 : https://chlqhqodlekt.tistory.com/
+유튜브 : https://www.youtube.com/channel/UC093_bcKUxZasAmjyi5MEDQ?view_as=subscriber
+
 
 1. < C#, Unity > 어쌔신크리드 탈옥버전 (창작)
 
