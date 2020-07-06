@@ -1,5 +1,6 @@
 # Portfolio
 
+블로그 : https://chlqhqodlekt.tistory.com/
 
 1. < WINAPI > 2D SPACE SHOOTER (슈팅 게임, 창작)
 
